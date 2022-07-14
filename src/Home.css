@@ -1,0 +1,49 @@
+.main{
+    background-color:rgb(233, 136, 248);
+    border: 1px solid black;
+    width: 20rem;
+    height: 20rem;
+    margin: auto 40%;
+    border-radius: 8%;
+    text-align: center;
+    padding: 10px;
+    margin-top: 100px;
+    box-shadow: 11px 12px 13px 12px rgb(146, 232, 103);
+}
+.main div{
+    padding: 8px;
+}
+
+.main label{
+    padding: 8px;
+}
+
+button{
+    padding: 5px;
+    margin-top: 25px;
+    background-color: antiquewhite;
+    border-radius: 8px;
+}
+
+.main input{
+    text-decoration: none;
+
+}
+
+.data{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;
+    background-color:rgb(233, 136, 248);
+    font-size: 20px;
+    width: 40%;
+    margin-left: 490px;
+}
+
+.data p{
+    padding: 15px;
+   
+}
+
+/* ---------------------------------- */
